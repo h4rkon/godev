@@ -1,0 +1,7 @@
+{
+    "name": "GoLang devcontainer",
+    "dockerFile": "DockerFile",
+    "extensions": [
+        "golang.go"
+    ]
+}
